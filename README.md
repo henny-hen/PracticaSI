@@ -5,3 +5,5 @@ Para poder inicializar el proyecto, añade los jars de la carpeta /lib al classp
 
 En la configuración de run. crear uno nuevo con las siguientes características:
 ![running config](imagen.png)
+![running config](Captura de pantalla (167).png)
+
